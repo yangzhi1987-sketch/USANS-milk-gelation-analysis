@@ -1,0 +1,262 @@
+run_id,series_id,scan_order,condition_label,species,heat_treatment,legacy_analysis_key,recorded_beamline_name,recorded_beamline_prefix,identity_authority,identity_note,beamline_name_used_to_infer_goat_treatment
+KKB0018252,P8703_S01,1,Cow,cow,unheated,cow_no_R1,C_rpt_gel1,C,experiment records,Recorded cow identity retained.,False
+KKB0018253,P8703_S01,2,Cow,cow,unheated,cow_no_R1,C_rpt_gel2,C,experiment records,Recorded cow identity retained.,False
+KKB0018254,P8703_S01,3,Cow,cow,unheated,cow_no_R1,C_rpt_gel3,C,experiment records,Recorded cow identity retained.,False
+KKB0018255,P8703_S01,4,Cow,cow,unheated,cow_no_R1,C_rpt_gel4,C,experiment records,Recorded cow identity retained.,False
+KKB0018256,P8703_S01,5,Cow,cow,unheated,cow_no_R1,C_rpt_gel5,C,experiment records,Recorded cow identity retained.,False
+KKB0018257,P8703_S01,6,Cow,cow,unheated,cow_no_R1,C_rpt_gel6,C,experiment records,Recorded cow identity retained.,False
+KKB0018258,P8703_S01,7,Cow,cow,unheated,cow_no_R1,C_rpt_gel7,C,experiment records,Recorded cow identity retained.,False
+KKB0018259,P8703_S01,8,Cow,cow,unheated,cow_no_R1,C_rpt_gel8,C,experiment records,Recorded cow identity retained.,False
+KKB0018260,P8703_S01,9,Cow,cow,unheated,cow_no_R1,C_rpt_gel9,C,experiment records,Recorded cow identity retained.,False
+KKB0018261,P8703_S01,10,Cow,cow,unheated,cow_no_R1,C_rpt_gel10,C,experiment records,Recorded cow identity retained.,False
+KKB0018264,P8703_S01,11,Cow,cow,unheated,cow_no_R1,C_rpt_gel11,C,experiment records,Recorded cow identity retained.,False
+KKB0018265,P8703_S01,12,Cow,cow,unheated,cow_no_R1,C_rpt_gel12,C,experiment records,Recorded cow identity retained.,False
+KKB0018266,P8703_S01,13,Cow,cow,unheated,cow_no_R1,C_rpt_gel13,C,experiment records,Recorded cow identity retained.,False
+KKB0018267,P8703_S01,14,Cow,cow,unheated,cow_no_R1,C_rpt_gel14,C,experiment records,Recorded cow identity retained.,False
+KKB0018268,P8703_S01,15,Cow,cow,unheated,cow_no_R1,C_rpt_gel15,C,experiment records,Recorded cow identity retained.,False
+KKB0018269,P8703_S01,16,Cow,cow,unheated,cow_no_R1,C_rpt_gel16,C,experiment records,Recorded cow identity retained.,False
+KKB0018270,P8703_S01,17,Cow,cow,unheated,cow_no_R1,C_rpt_gel17,C,experiment records,Recorded cow identity retained.,False
+KKB0018271,P8703_S01,18,Cow,cow,unheated,cow_no_R1,C_rpt_gel18,C,experiment records,Recorded cow identity retained.,False
+KKB0018272,P8703_S01,19,Cow,cow,unheated,cow_no_R1,C_rpt_gel19,C,experiment records,Recorded cow identity retained.,False
+KKB0018273,P8703_S01,20,Cow,cow,unheated,cow_no_R1,C_rpt_gel20,C,experiment records,Recorded cow identity retained.,False
+KKB0018274,P8703_S01,21,Cow,cow,unheated,cow_no_R1,C_rpt_gel21,C,experiment records,Recorded cow identity retained.,False
+KKB0018275,P8703_S01,22,Cow,cow,unheated,cow_no_R1,C_rpt_gel22,C,experiment records,Recorded cow identity retained.,False
+KKB0018276,P8703_S01,23,Cow,cow,unheated,cow_no_R1,C_rpt_gel23,C,experiment records,Recorded cow identity retained.,False
+KKB0018277,P8703_S01,24,Cow,cow,unheated,cow_no_R1,C_rpt_gel24,C,experiment records,Recorded cow identity retained.,False
+KKB0018278,P8703_S01,25,Cow,cow,unheated,cow_no_R1,C_rpt_gel25,C,experiment records,Recorded cow identity retained.,False
+KKB0018279,P8703_S01,26,Cow,cow,unheated,cow_no_R1,C_rpt_gel26,C,experiment records,Recorded cow identity retained.,False
+KKB0018280,P8703_S01,27,Cow,cow,unheated,cow_no_R1,C_rpt_gel27,C,experiment records,Recorded cow identity retained.,False
+KKB0018281,P8703_S01,28,Cow,cow,unheated,cow_no_R1,C_rpt_gel28,C,experiment records,Recorded cow identity retained.,False
+KKB0018283,P8703_S01,29,Cow,cow,unheated,cow_no_R1,C_rpt_gel29,C,experiment records,Recorded cow identity retained.,False
+KKB0018285,P8703_S01,30,Cow,cow,unheated,cow_no_R1,C_rpt_gel30,C,experiment records,Recorded cow identity retained.,False
+KKB0018287,P8703_S01,31,Cow,cow,unheated,cow_no_R1,C_rpt_gel31,C,experiment records,Recorded cow identity retained.,False
+KKB0018290,P8703_S01,32,Cow,cow,unheated,cow_no_R1,C_rpt_gel33,C,experiment records,Recorded cow identity retained.,False
+KKB0018291,P8703_S01,33,Cow,cow,unheated,cow_no_R1,C_rpt_gel34,C,experiment records,Recorded cow identity retained.,False
+KKB0018292,P8703_S01,34,Cow,cow,unheated,cow_no_R1,C_rpt_gel35,C,experiment records,Recorded cow identity retained.,False
+KKB0018293,P8703_S01,35,Cow,cow,unheated,cow_no_R1,C_rpt_gel36,C,experiment records,Recorded cow identity retained.,False
+KKB0018294,P8703_S01,36,Cow,cow,unheated,cow_no_R1,C_rpt_gel37,C,experiment records,Recorded cow identity retained.,False
+KKB0018295,P8703_S01,37,Cow,cow,unheated,cow_no_R1,C_rpt_gel38,C,experiment records,Recorded cow identity retained.,False
+KKB0018296,P8703_S01,38,Cow,cow,unheated,cow_no_R1,C_rpt_gel39,C,experiment records,Recorded cow identity retained.,False
+KKB0018297,P8703_S01,39,Cow,cow,unheated,cow_no_R1,C_rpt_gel40,C,experiment records,Recorded cow identity retained.,False
+KKB0017971,P8703_S02,1,Heated cow,cow,heated,heat_cow_R1,CH_gel1,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017972,P8703_S02,2,Heated cow,cow,heated,heat_cow_R1,CH_gel2,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017973,P8703_S02,3,Heated cow,cow,heated,heat_cow_R1,CH_gel3,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017974,P8703_S02,4,Heated cow,cow,heated,heat_cow_R1,CH_gel4,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017975,P8703_S02,5,Heated cow,cow,heated,heat_cow_R1,CH_gel5,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017976,P8703_S02,6,Heated cow,cow,heated,heat_cow_R1,CH_gel6,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017977,P8703_S02,7,Heated cow,cow,heated,heat_cow_R1,CH_gel7,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017978,P8703_S02,8,Heated cow,cow,heated,heat_cow_R1,CH_gel8,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017979,P8703_S02,9,Heated cow,cow,heated,heat_cow_R1,CH_gel9,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017981,P8703_S02,10,Heated cow,cow,heated,heat_cow_R1,CH_gel10,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017983,P8703_S02,11,Heated cow,cow,heated,heat_cow_R1,CH_gel11,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017985,P8703_S02,12,Heated cow,cow,heated,heat_cow_R1,CH_gel12,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017987,P8703_S02,13,Heated cow,cow,heated,heat_cow_R1,CH_gel13,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017989,P8703_S02,14,Heated cow,cow,heated,heat_cow_R1,CH_gel14,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017991,P8703_S02,15,Heated cow,cow,heated,heat_cow_R1,CH_gel15,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017993,P8703_S02,16,Heated cow,cow,heated,heat_cow_R1,CH_gel16,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0017995,P8703_S02,17,Heated cow,cow,heated,heat_cow_R1,CH_gel17,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018005,P8703_S02,18,Heated cow,cow,heated,heat_cow_R1,CH_gel22,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018007,P8703_S02,19,Heated cow,cow,heated,heat_cow_R1,CH_gel23,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018009,P8703_S02,20,Heated cow,cow,heated,heat_cow_R1,CH_gel24,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018011,P8703_S02,21,Heated cow,cow,heated,heat_cow_R1,CH_gel25,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018013,P8703_S02,22,Heated cow,cow,heated,heat_cow_R1,CH_gel26,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018015,P8703_S02,23,Heated cow,cow,heated,heat_cow_R1,CH_gel27,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018017,P8703_S02,24,Heated cow,cow,heated,heat_cow_R1,CH_gel28,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018019,P8703_S02,25,Heated cow,cow,heated,heat_cow_R1,CH_gel29,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018021,P8703_S02,26,Heated cow,cow,heated,heat_cow_R1,CH_gel19,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018023,P8703_S02,27,Heated cow,cow,heated,heat_cow_R1,CH_gel20,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018025,P8703_S02,28,Heated cow,cow,heated,heat_cow_R1,CH_gel21,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018029,P8703_S02,29,Heated cow,cow,heated,heat_cow_R1,CH_gel23,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018031,P8703_S02,30,Heated cow,cow,heated,heat_cow_R1,CH_gel24,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018033,P8703_S02,31,Heated cow,cow,heated,heat_cow_R1,CH_gel25,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018035,P8703_S02,32,Heated cow,cow,heated,heat_cow_R1,CH_gel26,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018037,P8703_S02,33,Heated cow,cow,heated,heat_cow_R1,CH_gel27,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018039,P8703_S02,34,Heated cow,cow,heated,heat_cow_R1,CH_gel28,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018041,P8703_S02,35,Heated cow,cow,heated,heat_cow_R1,CH_gel29,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018043,P8703_S02,36,Heated cow,cow,heated,heat_cow_R1,CH_gel30,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018045,P8703_S02,37,Heated cow,cow,heated,heat_cow_R1,CH_gel31,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018047,P8703_S02,38,Heated cow,cow,heated,heat_cow_R1,CH_gel32,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018049,P8703_S02,39,Heated cow,cow,heated,heat_cow_R1,CH_gel33,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018051,P8703_S02,40,Heated cow,cow,heated,heat_cow_R1,CH_gel34,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018053,P8703_S02,41,Heated cow,cow,heated,heat_cow_R1,CH_gel35,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018055,P8703_S02,42,Heated cow,cow,heated,heat_cow_R1,CH_gel36,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018057,P8703_S02,43,Heated cow,cow,heated,heat_cow_R1,CH_gel37,CH,experiment records,Recorded heated-cow identity retained.,False
+KKB0018333,P8703_S03,1,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel1,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018334,P8703_S03,2,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel2,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018335,P8703_S03,3,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel3,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018336,P8703_S03,4,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel4,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018337,P8703_S03,5,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel5,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018338,P8703_S03,6,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel6,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018339,P8703_S03,7,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel7,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018340,P8703_S03,8,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel8,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018341,P8703_S03,9,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel9,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018344,P8703_S03,10,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel10,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018347,P8703_S03,11,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel11,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018349,P8703_S03,12,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel12,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018351,P8703_S03,13,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel13,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018353,P8703_S03,14,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel14,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018355,P8703_S03,15,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel15,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018357,P8703_S03,16,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel16,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018359,P8703_S03,17,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel17,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018361,P8703_S03,18,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel18,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018363,P8703_S03,19,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel19,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018365,P8703_S03,20,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel20,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018367,P8703_S03,21,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel21,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018370,P8703_S03,22,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel22,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018372,P8703_S03,23,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel23,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018374,P8703_S03,24,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel24,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018376,P8703_S03,25,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel25,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018378,P8703_S03,26,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel26,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018380,P8703_S03,27,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel27,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018382,P8703_S03,28,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel28,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018384,P8703_S03,29,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel29,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018386,P8703_S03,30,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel30,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018388,P8703_S03,31,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel31,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018390,P8703_S03,32,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel32,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018394,P8703_S03,33,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel34,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018397,P8703_S03,34,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel35,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018401,P8703_S03,35,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel41,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018404,P8703_S03,36,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel43,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018406,P8703_S03,37,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel44,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018408,P8703_S03,38,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel45,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018410,P8703_S03,39,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel46,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018412,P8703_S03,40,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel47,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018414,P8703_S03,41,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel48,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018416,P8703_S03,42,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel49,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018418,P8703_S03,43,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel50,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018420,P8703_S03,44,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel51,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018422,P8703_S03,45,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel52,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018424,P8703_S03,46,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel53,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018426,P8703_S03,47,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel54,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018428,P8703_S03,48,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel55,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018433,P8703_S03,49,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel57,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018435,P8703_S03,50,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel58,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018437,P8703_S03,51,Goat,goat,unheated,heat_goat_R1,GH_rpt_gel59,GH,experimenter correction plus submitted-analysis mapping,GH_rpt was mislabelled during the experiment and is unheated goat; the GH prefix is provenance only.,False
+KKB0018343,P8703_S04,1,Heated goat,goat,heated,goat_no_R1,G_rpt_gel1,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018346,P8703_S04,2,Heated goat,goat,heated,goat_no_R1,G_rpt_gel2,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018348,P8703_S04,3,Heated goat,goat,heated,goat_no_R1,G_rpt_gel3,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018350,P8703_S04,4,Heated goat,goat,heated,goat_no_R1,G_rpt_gel4,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018352,P8703_S04,5,Heated goat,goat,heated,goat_no_R1,G_rpt_gel5,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018354,P8703_S04,6,Heated goat,goat,heated,goat_no_R1,G_rpt_gel6,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018356,P8703_S04,7,Heated goat,goat,heated,goat_no_R1,G_rpt_gel7,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018358,P8703_S04,8,Heated goat,goat,heated,goat_no_R1,G_rpt_gel8,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018360,P8703_S04,9,Heated goat,goat,heated,goat_no_R1,G_rpt_gel9,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018362,P8703_S04,10,Heated goat,goat,heated,goat_no_R1,G_rpt_gel10,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018364,P8703_S04,11,Heated goat,goat,heated,goat_no_R1,G_rpt_gel11,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018366,P8703_S04,12,Heated goat,goat,heated,goat_no_R1,G_rpt_gel12,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018369,P8703_S04,13,Heated goat,goat,heated,goat_no_R1,G_rpt_gel13,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018371,P8703_S04,14,Heated goat,goat,heated,goat_no_R1,G_rpt_gel14,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018373,P8703_S04,15,Heated goat,goat,heated,goat_no_R1,G_rpt_gel15,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018375,P8703_S04,16,Heated goat,goat,heated,goat_no_R1,G_rpt_gel16,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018377,P8703_S04,17,Heated goat,goat,heated,goat_no_R1,G_rpt_gel17,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018379,P8703_S04,18,Heated goat,goat,heated,goat_no_R1,G_rpt_gel18,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018381,P8703_S04,19,Heated goat,goat,heated,goat_no_R1,G_rpt_gel19,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018383,P8703_S04,20,Heated goat,goat,heated,goat_no_R1,G_rpt_gel20,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018385,P8703_S04,21,Heated goat,goat,heated,goat_no_R1,G_rpt_gel21,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018387,P8703_S04,22,Heated goat,goat,heated,goat_no_R1,G_rpt_gel22,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018389,P8703_S04,23,Heated goat,goat,heated,goat_no_R1,G_rpt_gel23,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018391,P8703_S04,24,Heated goat,goat,heated,goat_no_R1,G_rpt_gel24,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018395,P8703_S04,25,Heated goat,goat,heated,goat_no_R1,G_rpt_gel26,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018398,P8703_S04,26,Heated goat,goat,heated,goat_no_R1,G_rpt_gel27,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018400,P8703_S04,27,Heated goat,goat,heated,goat_no_R1,G_rpt_gel28,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018403,P8703_S04,28,Heated goat,goat,heated,goat_no_R1,G_rpt_gel29,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018405,P8703_S04,29,Heated goat,goat,heated,goat_no_R1,G_rpt_gel30,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018407,P8703_S04,30,Heated goat,goat,heated,goat_no_R1,G_rpt_gel31,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018409,P8703_S04,31,Heated goat,goat,heated,goat_no_R1,G_rpt_gel32,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018411,P8703_S04,32,Heated goat,goat,heated,goat_no_R1,G_rpt_gel33,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018413,P8703_S04,33,Heated goat,goat,heated,goat_no_R1,G_rpt_gel34,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018415,P8703_S04,34,Heated goat,goat,heated,goat_no_R1,G_rpt_gel35,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018417,P8703_S04,35,Heated goat,goat,heated,goat_no_R1,G_rpt_gel36,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018419,P8703_S04,36,Heated goat,goat,heated,goat_no_R1,G_rpt_gel37,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018421,P8703_S04,37,Heated goat,goat,heated,goat_no_R1,G_rpt_gel38,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018423,P8703_S04,38,Heated goat,goat,heated,goat_no_R1,G_rpt_gel39,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018425,P8703_S04,39,Heated goat,goat,heated,goat_no_R1,G_rpt_gel40,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018427,P8703_S04,40,Heated goat,goat,heated,goat_no_R1,G_rpt_gel41,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018429,P8703_S04,41,Heated goat,goat,heated,goat_no_R1,G_rpt_gel42,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018432,P8703_S04,42,Heated goat,goat,heated,goat_no_R1,G_rpt_gel44,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018434,P8703_S04,43,Heated goat,goat,heated,goat_no_R1,G_rpt_gel45,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018436,P8703_S04,44,Heated goat,goat,heated,goat_no_R1,G_rpt_gel46,G,experimenter correction plus submitted-analysis mapping,G_rpt was mislabelled during the experiment and is heated goat; the G prefix is provenance only.,False
+KKB0018070,P8703_S05,1,Sheep,sheep,unheated,sheep_no_R1,S_gel1,S,experiment records,Recorded sheep identity retained.,False
+KKB0018072,P8703_S05,2,Sheep,sheep,unheated,sheep_no_R1,S_gel2,S,experiment records,Recorded sheep identity retained.,False
+KKB0018074,P8703_S05,3,Sheep,sheep,unheated,sheep_no_R1,S_gel3,S,experiment records,Recorded sheep identity retained.,False
+KKB0018076,P8703_S05,4,Sheep,sheep,unheated,sheep_no_R1,S_gel4,S,experiment records,Recorded sheep identity retained.,False
+KKB0018078,P8703_S05,5,Sheep,sheep,unheated,sheep_no_R1,S_gel5,S,experiment records,Recorded sheep identity retained.,False
+KKB0018080,P8703_S05,6,Sheep,sheep,unheated,sheep_no_R1,S_gel6,S,experiment records,Recorded sheep identity retained.,False
+KKB0018082,P8703_S05,7,Sheep,sheep,unheated,sheep_no_R1,S_gel7,S,experiment records,Recorded sheep identity retained.,False
+KKB0018084,P8703_S05,8,Sheep,sheep,unheated,sheep_no_R1,S_gel8,S,experiment records,Recorded sheep identity retained.,False
+KKB0018086,P8703_S05,9,Sheep,sheep,unheated,sheep_no_R1,S_gel9,S,experiment records,Recorded sheep identity retained.,False
+KKB0018088,P8703_S05,10,Sheep,sheep,unheated,sheep_no_R1,S_gel10,S,experiment records,Recorded sheep identity retained.,False
+KKB0018090,P8703_S05,11,Sheep,sheep,unheated,sheep_no_R1,S_gel11,S,experiment records,Recorded sheep identity retained.,False
+KKB0018092,P8703_S05,12,Sheep,sheep,unheated,sheep_no_R1,S_gel12,S,experiment records,Recorded sheep identity retained.,False
+KKB0018094,P8703_S05,13,Sheep,sheep,unheated,sheep_no_R1,S_gel13,S,experiment records,Recorded sheep identity retained.,False
+KKB0018096,P8703_S05,14,Sheep,sheep,unheated,sheep_no_R1,S_gel14,S,experiment records,Recorded sheep identity retained.,False
+KKB0018098,P8703_S05,15,Sheep,sheep,unheated,sheep_no_R1,S_gel15,S,experiment records,Recorded sheep identity retained.,False
+KKB0018100,P8703_S05,16,Sheep,sheep,unheated,sheep_no_R1,S_gel16,S,experiment records,Recorded sheep identity retained.,False
+KKB0018102,P8703_S05,17,Sheep,sheep,unheated,sheep_no_R1,S_gel17,S,experiment records,Recorded sheep identity retained.,False
+KKB0018104,P8703_S05,18,Sheep,sheep,unheated,sheep_no_R1,S_gel18,S,experiment records,Recorded sheep identity retained.,False
+KKB0018106,P8703_S05,19,Sheep,sheep,unheated,sheep_no_R1,S_gel19,S,experiment records,Recorded sheep identity retained.,False
+KKB0018108,P8703_S05,20,Sheep,sheep,unheated,sheep_no_R1,S_gel20,S,experiment records,Recorded sheep identity retained.,False
+KKB0018110,P8703_S05,21,Sheep,sheep,unheated,sheep_no_R1,S_gel21,S,experiment records,Recorded sheep identity retained.,False
+KKB0018112,P8703_S05,22,Sheep,sheep,unheated,sheep_no_R1,S_gel22,S,experiment records,Recorded sheep identity retained.,False
+KKB0018114,P8703_S05,23,Sheep,sheep,unheated,sheep_no_R1,S_gel23,S,experiment records,Recorded sheep identity retained.,False
+KKB0018116,P8703_S05,24,Sheep,sheep,unheated,sheep_no_R1,S_gel24,S,experiment records,Recorded sheep identity retained.,False
+KKB0018120,P8703_S05,25,Sheep,sheep,unheated,sheep_no_R1,S_gel26,S,experiment records,Recorded sheep identity retained.,False
+KKB0018122,P8703_S05,26,Sheep,sheep,unheated,sheep_no_R1,S_gel27,S,experiment records,Recorded sheep identity retained.,False
+KKB0018124,P8703_S05,27,Sheep,sheep,unheated,sheep_no_R1,S_gel28,S,experiment records,Recorded sheep identity retained.,False
+KKB0018126,P8703_S05,28,Sheep,sheep,unheated,sheep_no_R1,S_gel29,S,experiment records,Recorded sheep identity retained.,False
+KKB0018128,P8703_S05,29,Sheep,sheep,unheated,sheep_no_R1,S_gel30,S,experiment records,Recorded sheep identity retained.,False
+KKB0018130,P8703_S05,30,Sheep,sheep,unheated,sheep_no_R1,S_gel31,S,experiment records,Recorded sheep identity retained.,False
+KKB0018132,P8703_S05,31,Sheep,sheep,unheated,sheep_no_R1,S_gel32,S,experiment records,Recorded sheep identity retained.,False
+KKB0018134,P8703_S05,32,Sheep,sheep,unheated,sheep_no_R1,S_gel33,S,experiment records,Recorded sheep identity retained.,False
+KKB0018136,P8703_S05,33,Sheep,sheep,unheated,sheep_no_R1,S_gel26,S,experiment records,Recorded sheep identity retained.,False
+KKB0018138,P8703_S05,34,Sheep,sheep,unheated,sheep_no_R1,S_gel27,S,experiment records,Recorded sheep identity retained.,False
+KKB0018140,P8703_S05,35,Sheep,sheep,unheated,sheep_no_R1,S_gel28,S,experiment records,Recorded sheep identity retained.,False
+KKB0018142,P8703_S05,36,Sheep,sheep,unheated,sheep_no_R1,S_gel29,S,experiment records,Recorded sheep identity retained.,False
+KKB0018144,P8703_S05,37,Sheep,sheep,unheated,sheep_no_R1,S_gel30,S,experiment records,Recorded sheep identity retained.,False
+KKB0018146,P8703_S05,38,Sheep,sheep,unheated,sheep_no_R1,S_gel31,S,experiment records,Recorded sheep identity retained.,False
+KKB0018060,P8703_S06,1,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel1,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018061,P8703_S06,2,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel2,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018062,P8703_S06,3,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel3,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018063,P8703_S06,4,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel4,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018064,P8703_S06,5,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel5,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018065,P8703_S06,6,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel6,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018066,P8703_S06,7,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel7,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018067,P8703_S06,8,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel8,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018068,P8703_S06,9,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel9,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018071,P8703_S06,10,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel11,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018073,P8703_S06,11,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel12,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018075,P8703_S06,12,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel13,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018077,P8703_S06,13,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel14,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018079,P8703_S06,14,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel15,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018081,P8703_S06,15,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel16,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018083,P8703_S06,16,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel17,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018085,P8703_S06,17,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel18,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018087,P8703_S06,18,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel19,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018089,P8703_S06,19,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel20,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018091,P8703_S06,20,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel21,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018093,P8703_S06,21,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel22,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018095,P8703_S06,22,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel23,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018097,P8703_S06,23,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel24,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018099,P8703_S06,24,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel25,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018101,P8703_S06,25,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel26,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018103,P8703_S06,26,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel27,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018105,P8703_S06,27,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel28,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018107,P8703_S06,28,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel29,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018109,P8703_S06,29,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel30,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018111,P8703_S06,30,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel31,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018113,P8703_S06,31,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel32,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018115,P8703_S06,32,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel33,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018119,P8703_S06,33,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel35,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018121,P8703_S06,34,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel36,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018123,P8703_S06,35,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel37,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018125,P8703_S06,36,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel38,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018127,P8703_S06,37,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel39,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018129,P8703_S06,38,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel40,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018131,P8703_S06,39,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel41,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018133,P8703_S06,40,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel42,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018135,P8703_S06,41,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel43,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018137,P8703_S06,42,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel36,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018139,P8703_S06,43,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel37,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018141,P8703_S06,44,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel38,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018143,P8703_S06,45,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel39,SH,experiment records,Recorded heated-sheep identity retained.,False
+KKB0018145,P8703_S06,46,Heated sheep,sheep,heated,heat_sheep_R1,SH_gel40,SH,experiment records,Recorded heated-sheep identity retained.,False

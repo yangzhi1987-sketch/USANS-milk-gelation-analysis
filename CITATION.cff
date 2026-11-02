@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and source dataset when using this package."
+title: "USANS milk gelation analysis"
+type: software
+authors:
+  - family-names: Yang
+    given-names: Zhiyun
+year: 2026
+repository-code: "https://github.com/yangzhi1987-sketch/USANS-milk-gelation-analysis"
+license: MIT
